@@ -1,0 +1,66 @@
+{
+    "name": "cyberhacker-theme",
+    "displayName": "CyberHacker Theme",
+    "description": "A Cyberpunk theme with bright colors specifically designed for C/C++ programming",
+    "version": "0.0.1",
+    "publisher": "krebrov",
+    "icon": "images/CyberHacker_Theme.JPG",
+    "engines": {
+        "vscode": "^1.87.0"
+    },
+    "extensionKind": [
+        "ui",
+        "workspace"
+    ],
+    "galleryBanner": {
+        "color": "#052529",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Krebrov001/cyberhacker-theme"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "cyberpunk",
+        "cyberhacker",
+        "CyberHacker",
+        "cyber hacker",
+        "cyber",
+        "hacker",
+        "hacking",
+        "Matrix",
+        "Cyberpunk 2077",
+        "Synthwave",
+        "futuristic",
+        "science",
+        "tech",
+        "neon",
+        "cyan",
+        "turquoise",
+        "semantic",
+        "italic",
+        "bold",
+        "syntax",
+        "highlight",
+        "colorful",
+        "color",
+        "glow",
+        "dark",
+        "dark theme",
+        "C++",
+        "cpp",
+        "C"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "CyberHacker Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/CyberHacker Theme-color-theme.json"
+            }
+        ]
+    }
+}
